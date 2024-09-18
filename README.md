@@ -1,3 +1,3 @@
-The probing dataset and code for our paper: _**Do LLMs more Easily Detect Known or Unknown Knowledge Errors when Playing Roles?**_. 
+The probing dataset and code for our paper: _**Revealing the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing**_. 
 
 Our work is still in progress, so please stay tuned.
